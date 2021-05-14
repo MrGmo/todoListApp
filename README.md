@@ -16,7 +16,7 @@ Optimizations:
 If I had a bit more time I would have cleaned up the CSS in this todo app, the list items are a bit off center and the margins aren't quite right.
 
 
-Lessons Learned:
+Lessons learned:
 
 The most important thing I learned while building this project was that most apps are really just the four steps of CRUD, this fundamentally altered my understanding of how the internet works.
 
